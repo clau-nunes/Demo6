@@ -1,0 +1,15 @@
+C:\Users\claud\Desktop\dio bootcamp\Demo6\bin\Debug\net6.0\Demo6.exe
+C:\Users\claud\Desktop\dio bootcamp\Demo6\bin\Debug\net6.0\Demo6.deps.json
+C:\Users\claud\Desktop\dio bootcamp\Demo6\bin\Debug\net6.0\Demo6.runtimeconfig.json
+C:\Users\claud\Desktop\dio bootcamp\Demo6\bin\Debug\net6.0\Demo6.dll
+C:\Users\claud\Desktop\dio bootcamp\Demo6\bin\Debug\net6.0\Demo6.pdb
+C:\Users\claud\Desktop\dio bootcamp\Demo6\obj\Debug\net6.0\Demo6.csproj.AssemblyReference.cache
+C:\Users\claud\Desktop\dio bootcamp\Demo6\obj\Debug\net6.0\Demo6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\Desktop\dio bootcamp\Demo6\obj\Debug\net6.0\Demo6.AssemblyInfoInputs.cache
+C:\Users\claud\Desktop\dio bootcamp\Demo6\obj\Debug\net6.0\Demo6.AssemblyInfo.cs
+C:\Users\claud\Desktop\dio bootcamp\Demo6\obj\Debug\net6.0\Demo6.csproj.CoreCompileInputs.cache
+C:\Users\claud\Desktop\dio bootcamp\Demo6\obj\Debug\net6.0\Demo6.dll
+C:\Users\claud\Desktop\dio bootcamp\Demo6\obj\Debug\net6.0\refint\Demo6.dll
+C:\Users\claud\Desktop\dio bootcamp\Demo6\obj\Debug\net6.0\Demo6.pdb
+C:\Users\claud\Desktop\dio bootcamp\Demo6\obj\Debug\net6.0\Demo6.genruntimeconfig.cache
+C:\Users\claud\Desktop\dio bootcamp\Demo6\obj\Debug\net6.0\ref\Demo6.dll
